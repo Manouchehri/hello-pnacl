@@ -1,0 +1,1 @@
+python3 -m http.server --bind localhost $(shuf -i 49152-65000 -n1)
